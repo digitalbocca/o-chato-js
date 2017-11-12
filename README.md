@@ -1,4 +1,4 @@
 # o-chato-js #
-## v0.1.0 ##
+## v0.3.0 ##
 
 > Apenas para demonstração.
